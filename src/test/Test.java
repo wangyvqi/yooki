@@ -5,7 +5,7 @@
 package test;
 
 /**
- * yooki
+ * yooki--测试下更新冲突问题。
  * @author wb-wsh296331
  * @version $Id: Test.java, v 0.1 2017年6月28日 上午11:03:47 wb-wsh296331 Exp $
  */
