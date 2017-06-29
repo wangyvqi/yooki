@@ -5,7 +5,7 @@
 package test;
 
 /**
- * 
+ * 汪升浩
  * @author wb-wsh296331
  * @version $Id: Pepole.java, v 0.1 2017年6月28日 上午10:57:30 wb-wsh296331 Exp $
  */
